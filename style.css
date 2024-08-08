@@ -1,12 +1,12 @@
-body {background-color: rgba(103, 179, 209, 0.952)
+body {background-color: rgba(103, 179, 209, 0.952);
 }
-strong{color:rgb(99, 5, 136)
+strong{color:rgb(99, 5, 136);
 }
 h1{color: blueviolet;
 }
-p{color:grey 
+p{color:grey;
 }
-nav a{color:darkred
+nav a{color:darkred;
 }
 .p1{color:rgb(7, 151, 151); font-style:unset;
 }
