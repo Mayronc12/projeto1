@@ -4,7 +4,7 @@ strong{color:rgb(99, 5, 136);
 }
 h1{color: blueviolet;font-style:italic;
 }
-p{color:grey;
+p{color:grey; font-size:medium
 }
 nav a{color:darkred;
 }
@@ -19,4 +19,7 @@ h2{color:aquamarine;font-style:italic
 .img0{ width: 75%
 }
 li{color:aliceblue
+}
+header {
+    border: solid 2px white; padding:7%
 }
