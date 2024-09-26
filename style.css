@@ -1,5 +1,5 @@
 body {background-color: rgba(7, 143, 197, 0.952); text-align: center; font-style:italic;justify-content
-}
+
 strong{color:rgb(99, 5, 136);
 }
 h1{color: rgb(120, 11, 221);font-style:italic;
@@ -23,5 +23,4 @@ li{color:aliceblue
 header {
     border: solid 2px white; padding:7%
 }
-.Musicas{display: flex
-}
+.Musicas{display: flex}
